@@ -21,7 +21,7 @@
             <p>Nombre: <?php echo $nombre; ?></p>
             <p>Apellido: <?php echo $apellido; ?></p>
             <p>Cédula: <?php echo $cedula; ?></p>
-            <a href="index.html">Volver al formulario</a>
+            <a href="ejercicio3.php">Volver al formulario</a>
         <?php else : ?>
             <p>No se han recibido datos.</p>
         <?php endif; ?>
